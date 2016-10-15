@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingRL">7dp</dimen>
+    <dimen name="paddingBT">7dp</dimen>
+    <dimen name="width">272dp</dimen>
+    <dimen name="dividerLength">260dp</dimen>
+    <dimen name="headerH">34dp</dimen>
+</resources>
