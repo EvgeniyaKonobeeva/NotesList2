@@ -11,6 +11,12 @@ import android.widget.RemoteViews;
 
 /**
  * Created by Evgenia on 14.10.2016.
+ *
+ * остановилась на обработке нажатия на пункт списка и вызове активити в виде диалога
+ * надо при нажатии вызвать диалог
+ *  из диалога обновить список
+ *
+ *
  */
 public class MainWidget extends AppWidgetProvider {
     private final static String LOG_TAG = "MainWidget";
